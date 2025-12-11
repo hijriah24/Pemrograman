@@ -1,5 +1,5 @@
 nama = "hijriah" # string
-umur = 20 # integer
-tinggi = 160.2 # float
+umur = 18 # integer
+tinggi = 150.2 # float
 
 
